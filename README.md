@@ -1,3 +1,7 @@
-# Community Template Repo
+#Winter Internship IEEE
 
-Template repo with docs and GitHub Actions etc, to create other projects.
+##Day 1:
+
+learnt Figma
+
+Project:
