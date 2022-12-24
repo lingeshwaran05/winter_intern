@@ -24,6 +24,13 @@ https://www.figma.com/file/KgKvD5OE4FbyH5SypHYCRL/github?node-id=0%3A1&t=LS3wRHm
 <h2>Day 4:</h2>
 
 <a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc">Recall Full css concepts</a>
+<a href="https://www.30secondsofcode.org/css">CSS hands-on</a>
 <h2>Day 5:</h2>
 
 <a href="https://learnjavascript.online/">Javascript</a>
+<a href="https://www.30secondsofcode.org/js">Javascript hands-on</a>
+<h2>Day 5>/h2>
+
+<a href="https://svelte.dev/tutorial">Svelte </a>
+
+
