@@ -31,7 +31,7 @@ https://www.figma.com/file/KgKvD5OE4FbyH5SypHYCRL/github?node-id=0%3A1&t=LS3wRHm
 <a href="https://learnjavascript.online/">Javascript</a>
 <br>
 <a href="https://www.30secondsofcode.org/js">Javascript hands-on</a>
-<h2>Day 5>/h2>
+<h2>Day 6</h2>
 
 <a href="https://svelte.dev/tutorial">Svelte </a>
 
